@@ -1,1 +1,5 @@
+com/example/timetracker/auth/AuthController.class
+com/example/timetracker/auth/UserRepository.class
+com/example/timetracker/auth/User.class
+com/example/timetracker/auth/SecurityConfig.class
 com/example/timetracker/TimetrackerApplication.class

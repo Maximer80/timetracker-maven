@@ -1,1 +1,5 @@
 /Users/inffomax/eclipse-workspace/timetracker/src/main/java/com/example/timetracker/TimetrackerApplication.java
+/Users/inffomax/eclipse-workspace/timetracker/src/main/java/com/example/timetracker/auth/AuthController.java
+/Users/inffomax/eclipse-workspace/timetracker/src/main/java/com/example/timetracker/auth/SecurityConfig.java
+/Users/inffomax/eclipse-workspace/timetracker/src/main/java/com/example/timetracker/auth/User.java
+/Users/inffomax/eclipse-workspace/timetracker/src/main/java/com/example/timetracker/auth/UserRepository.java
